@@ -22,16 +22,20 @@
 - **Debuging**: Develolopment activity that finds, analyzes and fixes defects.
 
 # 1.2 Why is Testing Necessary?
-Rigorous testing of components and systems, and their associated documentation, can help reduce the risk of failures occurring during operation.
+Rigorous testing of components and systems, and their associated documentation,
+can help reduce the risk of failures occurring during operation.
 
 # 1.2.2 Quality Assurance nad Testing
-**Quality management** includes all activities that direct and control an organization with regard to quality.
+**Quality management** includes all activities that direct and control an organization 
+with regard to quality.
 
 Quality management includes both quality assurance and quality control. 
 
-**Quality assurance** is typically focused on adherence to proper processes, in order to provide confidence that the appropriate levels of quality will be achieved.
+**Quality assurance** is typically focused on adherence to proper processes, in order
+to provide confidence that the appropriate levels of quality will be achieved.
 
-**Quality control** involves test activities, that support the achievement of appropriate levels of quality. Test activities are part of the overall software development or maintenance process. 
+**Quality control** involves test activities, that support the achievement of appropriate
+levels of quality. Test activities are part of the overall software development or maintenance process. 
 
 **Quality assurance supports proper testing**.
 
@@ -39,7 +43,8 @@ Quality management includes both quality assurance and quality control.
 `Error (mistake) -> defect(fault or bug) -> Failure`
 
 
-A person can make an error (mistake), which can lead to the introduction of a defect (fault or bug) in the software code or in some other related work product. 
+A person can make an error (mistake), which can lead to the introduction of a defect (fault or bug)
+in the software code or in some other related work product. 
 
 If a defect in the code is executed, this may cause a failure, but not necessarily in all circumstances.
 
@@ -54,7 +59,8 @@ If a defect in the code is executed, this may cause a failure, but not necessari
 7. Absence-of-failures is a fallacy
 
 # 1.4 Testing Process
-There is no one universal software test process, but there are common sets of test activities without which testing will be less likely to achieve its established objectives.
+There is no one universal software test process, but there are common sets of test activities
+without which testing will be less likely to achieve its established objectives.
 ## 1.4.1 Test Process in Context
 Contextual factors that influence the test process:
 - Software development lifecycle model and project methodologies
