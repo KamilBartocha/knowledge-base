@@ -61,10 +61,9 @@ The main considerations:
 - Consideration of pros and cons of various licensing models
 - Estimation of a cost-benefit ratio based on a concrete business case
 ## 6.2.2 Pilot Projects for Introducing a Tool into an Organization
-After completing the tool selection and a successful proof-of-concept, introducing the selected tool into an organization generally starts with a pilot project
+After completing the tool selection and a successful proof-of-concept, introducing the selected tool into an organization generally starts with a **pilot project** that helps in
 - Gaining in-depth knowledge about the tool, understanding both its strengths and weaknesses
-- Evaluating how the tool fits with existing processes and practices, and determining what would
-need to change
+- Evaluating how the tool fits with existing processes and practices, and determining what wouldneed to change
 - Deciding on standard ways of using, managing, storing, and maintaining the tool and the test work products (e.g., deciding on naming conventions for files and tests, selecting coding standards, creating libraries and defining the modularity of test suites)
 - Assessing whether the benefits will be achieved at reasonable cost
 - Understanding the metrics that you wish the tool to collect and report, and configuring the tool to

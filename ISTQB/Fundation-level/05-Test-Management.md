@@ -1,6 +1,6 @@
 # **5 Test Management**
 # 5.1 Test Organization
-## 5.1.1 Categories of Test Techniques and Their Characteristics
+## 5.1.1 Independent testing
 Testing tasks may be done by people in a specific testing role, or by people in another role. A certain degree of **independence often makes the tester more effective** at finding defects due to differences between the author’s and the tester’s cognitive biases. Independence is not, however, a replacement for familiarity, and developers can efficiently find many defects in their own code.
 - For most types of projects, it is usually best to have multiple test levels, with some of these levels handled by independent testers. 
 
