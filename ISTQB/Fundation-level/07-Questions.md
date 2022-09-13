@@ -13,14 +13,14 @@
 ## `9. What is static testing? name two types.`
 ## `10. What are benefits of static testing?`
 ## `11. What is a difference between dynamic and static testing?`
-## `12. What is a review proccess`
+## `12. What is a review process`
 # 04
 ## `13. Name test techniques categories and their characteristics.`
 ## `14. Name black-box techniques.`
 ## `15. Name white-box techniques.`
 ## `16. Name experience based techniques.`
 # 05
-## `17. Is independence testing impornant?`
+## `17. Is independence testing important?`
 ## `18. What should be inside test plan?`
 ## `19. What are entry criteria and exit criteria?`
 # 06
