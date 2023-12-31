@@ -1,2 +1,2 @@
-# knowledge-base
-Repoository for keeping private knowledge notes.
+# Google cloud
+Repoository for keeping notes from cloud trainings.
