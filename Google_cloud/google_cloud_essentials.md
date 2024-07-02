@@ -47,7 +47,7 @@ gcloud container clusters create --machine-type=e2-medium --zone=us-east1-c lab-
 gcloud container clusters get-credentials lab-cluster
 
 ## Create new hello-server app
-kubectl create deployment hello-server --image=gcr.io/google-samples/hello-app:1.0  Create Kubernetes service that expose app into external traffic:  kubectl expose deployment hello-server --type=LoadBalancer --port 8080
+kubectl create deployment hello-server --image=gcr.io/google-samples/hello-app:1.0Create Kubernetes service that expose app into external traffic:kubectl expose deployment hello-server --type=LoadBalancer --port 8080
 
 ## Inspect with:
 kubectl get service
