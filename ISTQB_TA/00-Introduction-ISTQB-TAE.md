@@ -46,3 +46,47 @@ There are eight chapters with examinable content.
 - Factors required to assess an appropriate test automation solution are covered
 - A tester will learn about the technical considerations needed to develop recommendations on test automation
 - FILE: `02-Preparing-for-Test-Automation.md`
+
+### 3. Test Automation Architecture – 210 min:
+- Test automation architecture and its components leading to a test automation solution is covered.
+- A tester will learn about layers and their application in a test automation framework
+- Multiple approaches to using test automation tools will be covered
+- A tester will learn how design principles and design patterns can be applied to test automation
+
+
+
+# TODO:
+
+Chapter 4: 150 minutes – Implementing Test Automation
+o How to effectively plan and deploy a test automation pilot project will be covered
+o A tester will learn about deployment risks and mitigate strategies
+o Factors that improve maintainability of test automation code will be covered
+
+
+● Chapter 5: 90 minutes – Implementation and Deployment Strategies for Test Automation
+o A tester will learn about CI/CD pipelines and automated test execution across test levels
+o Configuration management for components of test automation will be covered
+o A tester will learn about dependencies applied to API and contract testing
+
+● Chapter 6: 150 minutes – Test automation Reporting and Metrics
+o A tester will learn about where data can be collected from an SUT and test automation for
+analysis and reporting
+o Data analysis from SUT reports and test automation to uncover causes of failures will be
+covered
+o Use of test reports and dashboards to inform stakeholders will be covered
+
+
+● Chapter 7: 135 minutes – Verifying the Test Automation Solution
+o The tester will learn how to examine and verify the correct operation of test automation
+components and environment
+o Ensuring that test scripts and test suites execute correctly will be covered
+o A tester will understand when to perform root cause analysis
+o Techniques to analyze test automation code for quality will be covered
+
+
+● Chapter 8: 210 minutes – Continuous Improvement
+o Additional areas of data analysis for test case improvement will be covered
+o A tester will learn ways to make improvements and upgrades to a test automation
+solution and its components
+o Identifying ways to consolidate and streamline test automation will be covered
+o A tester will learn how test automation tools can assist with test support and setup needs

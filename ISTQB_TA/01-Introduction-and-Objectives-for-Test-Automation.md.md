@@ -82,7 +82,7 @@ defined to validate those requirements. This is where the traditional test level
 component integration, system, system integration, and acceptance.
 Providing a test automation framework (TAF) for each test level is possible and recommended.
 
-![alt text](images/image-1.png)
+![alt text](images/images01/image-1.png)
 
 - **Agile software development**
 
@@ -93,7 +93,7 @@ reviews, pair programming and frequent automated test execution. Eliminating sil
 developers, testers, and other stakeholders work together) allows teams to cover all test levels with the
 appropriate amount and depth of test automation, achieving a goal called in-sprint automation.
 
-![alt text](images/agile.png)
+![alt text](images/images01/agile.png)
 
 ### 1.2.2 Select Suitable Test Automation Tools For a Given System Under Test
 
