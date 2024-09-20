@@ -34,8 +34,15 @@ The test consists of **40 questions** and lasts a maximum of 60 minutes (75 minu
 
 ## Table of Contents
 There are eight chapters with examinable content.
-1. Introduction and Objectives for Test Automation - 45 min:
-    - The tester learns about the benefits of test automation and its limitations
-    - Test automation within different software development lifecycle models is covered
-    - The tester learns how a system under test (SUT) architecture impacts the suitability of test tools
-    - FILE: `01-Introduction-and-Objectives-for-Test-Automation.md`
+### 1. Introduction and Objectives for Test Automation - 45 min:
+- The tester learns about the benefits of test automation and its limitations
+- Test automation within different software development lifecycle models is covered
+- The tester learns how a system under test (SUT) architecture impacts the suitability of test tools
+- FILE: `01-Introduction-and-Objectives-for-Test-Automation.md`
+
+### 2. Preparing for Test Automation - 180 min:
+- Design for SUT testability through observability, controllability, and a clearly defined architecture, are covered.
+- A tester learns about test automation across different environments
+- Factors required to assess an appropriate test automation solution are covered
+- A tester will learn about the technical considerations needed to develop recommendations on test automation
+- FILE: `02-Preparing-for-Test-Automation.md`
