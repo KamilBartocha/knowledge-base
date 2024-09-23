@@ -53,16 +53,14 @@ There are eight chapters with examinable content.
 - Multiple approaches to using test automation tools will be covered
 - A tester will learn how design principles and design patterns can be applied to test automation
 
+### 4: Implementing Test Automation - 150 min:
+- How to effectively plan and deploy a test automation pilot project will be covered
+- A tester will learn about deployment risks and mitigate strategies
+- Factors that improve maintainability of test automation code will be covered
 
 
-# TODO:
 
-Chapter 4: 150 minutes – Implementing Test Automation
-o How to effectively plan and deploy a test automation pilot project will be covered
-o A tester will learn about deployment risks and mitigate strategies
-o Factors that improve maintainability of test automation code will be covered
-
-
+# TODO
 ● Chapter 5: 90 minutes – Implementation and Deployment Strategies for Test Automation
 o A tester will learn about CI/CD pipelines and automated test execution across test levels
 o Configuration management for components of test automation will be covered
