@@ -59,13 +59,13 @@ There are eight chapters with examinable content.
 - Factors that improve maintainability of test automation code will be covered
 
 
+### Chapter 5: Implementation and Deployment Strategies for Test Automation 90 min:
+- A tester will learn about CI/CD pipelines and automated test execution across test levels
+- Configuration management for components of test automation will be covered
+- A tester will learn about dependencies applied to API and contract testing
+
 
 # TODO
-● Chapter 5: 90 minutes – Implementation and Deployment Strategies for Test Automation
-o A tester will learn about CI/CD pipelines and automated test execution across test levels
-o Configuration management for components of test automation will be covered
-o A tester will learn about dependencies applied to API and contract testing
-
 ● Chapter 6: 150 minutes – Test automation Reporting and Metrics
 o A tester will learn about where data can be collected from an SUT and test automation for
 analysis and reporting
